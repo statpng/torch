@@ -28,3 +28,11 @@ loss.backward()
 
 print('conv1.bias.grad after backward')
 print(net.conv1.bias.grad)
+
+
+
+
+#### test
+
+
+<script src="https://gist.github.com/statpng/a4e799884f129860923b6df41a928e8b.js"></script>
